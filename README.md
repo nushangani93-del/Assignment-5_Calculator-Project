@@ -1,24 +1,29 @@
 # Assignment-5_Calculator-Project
-The Basic Calculator is a simple interactive application developed using Python.
-Project Description:
+## **2026/03/04**
+## Group 04
+### Name of Members
+- Ishara Nushangani
+- Maryam
+
+## **Project Description:**
 
 This project is a console-based Basic Calculator developed using the Python programming language. The main objective of this project is to create a simple mathematical calculator that performs fundamental arithmetic operations through a menu-driven interface.
 
 The calculator allows the user to select different mathematical operations such as:
 
-Addition
+- Addition
 
-Subtraction
+- Subtraction
 
-Multiplication
+- Multiplication
 
-Division
+- Division
 
-Second Power (Square)
+- Second Power (Square)
 
-Square Root
+- Square Root
 
-Exit
+- Exit
 
 The program continuously displays a menu and allows the user to choose an operation repeatedly until the user selects the exit option. This ensures that the calculator remains active and user-friendly.
 
